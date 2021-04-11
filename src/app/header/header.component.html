@@ -1,0 +1,30 @@
+<nav class="navbar bg-light" aria-label="Menu Principal de Navegação">
+  <ul class="logo">
+     <li>
+       <img src="./assets/img/lion.png" alt="Leão Logotipo Exemplo" />
+       <a [routerLink]="['/']" target="blank">
+          Lyrics Redirect
+        </a>
+     </li>
+  </ul>
+  <!-- utilização de FA Icon -->
+  <!-- https://fontawesome.com/icons?d=gallery&p=1 -->
+  <ul class="mobile-menu">
+    <li>
+      <a (click)="showHide()">
+        <i class="fas fa-align-justify"></i>
+      </a>
+    </li>
+  </ul>
+  <ul class="menu" [ngStyle]="{'display': display}">
+    <li>
+      <a [routerLink]="['/']">Home</a>
+    </li>
+    <li>
+      <a [routerLink]="['/more']">Mais</a>
+    </li>
+    <li>
+      <a [routerLink]="['/project']">Projetos</a>
+    </li>
+  </ul>
+</nav>

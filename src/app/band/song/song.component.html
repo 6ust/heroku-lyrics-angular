@@ -1,0 +1,44 @@
+<br>
+<h1 class="title-tnr center-text">{{bandNameInput}}</h1>
+<br>
+
+<div class="container-covers">
+
+  <div *ngFor="let song of song">
+
+    <!-- VERSÃO ALTERNATIVA DE VISÃO DE CAPA DO ALBUM  -->
+    <div class="content-field">
+      <a href="#" target="_blank">
+        <h6>
+
+          <div class="wrapper">
+            <div class="cube">
+              <i class="front">
+                <img src="./assets/img/cover/front/{{song.nameCover}}" alt="">
+              </i>
+              <i class="back">
+                <img src="./assets/img/cover/back/{{song.nameCover}}" alt="">
+              </i>
+              <i class="top">
+              </i>
+              <i class="bottom">
+              </i>
+              <i class="left">
+                <img src="./assets/img/cover/side/{{song.nameCover}}" alt="">
+              </i>
+              <i class="right">
+                <img src="./assets/img/cover/side/{{song.nameCover}}" alt="">
+              </i>
+            </div>
+          </div>
+          <div class="info">
+            <h2>{{song.songName}}</h2>
+            <h3>( {{song.albumName}} )</h3>
+          </div>
+          <div>
+          </div>
+        </h6>
+      </a>
+    </div>
+  </div>
+</div>

@@ -1,1 +1,644 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~font-awesome/css/font-awesome.css';
+
+/* Reset Elements */
+* {
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  border-spacing: 0;
+  padding: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Geral */
+body {
+  background-attachment: fixed;
+}
+
+.bg-light {
+  background-color: #ccc;
+}
+.info:hover {
+  animation: zoomInfo 3s linear infinite;
+}
+
+.info h3, .info h2 {
+  color: #fff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+}
+
+
+/* Headers - Texts */
+h1.title-tnr {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+}
+.center-text {
+  text-align: center;
+}
+
+/* Home */
+.list-band {
+  margin: 5px 10px;
+  padding: 2px;
+}
+
+.list-band a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  font-size: large;
+}
+
+/* Projetos */
+i.icons img {
+  width: auto;
+  height: 150px;
+  margin-left: 5px;
+}
+
+i.icons {
+  text-align: center;
+  display: block;
+}
+
+div.wrapper {
+  display: flex;
+  margin-left: 60px;
+}
+
+
+/* Mais Informações */
+.more p {
+  /* margin-left: 25px; */
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.tech-list {
+  margin-left: 25px;
+}
+
+.tech-list li {
+  margin: 5px;
+  padding: 2px;
+  list-style: square;
+}
+
+
+/* Background */
+body {
+  background-image: url("/assets/img/background/piano.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: top;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 725px) {
+  .mobile-menu li i {
+    display: flex;
+    top: 15px;
+    left: auto;
+    right: 0px;
+    bottom: auto;
+    color: #000;
+    font-size: 20px;
+  }
+
+  .menu {
+    display: none;
+    clear: both;
+    margin-top: 50px;
+    left: 0;
+    margin-right: 10px;
+    padding: 5px;
+    float: right;
+  }
+
+  .menu li {
+    padding: 15px;
+  }
+
+  body {
+    background-size: 100% 100vh;
+    background-position-x: right;
+    background-position-y: top;
+  }
+
+  .container {
+    margin: 0px 20px;
+    float: center;
+  }
+
+  .list-band {
+    text-align: center;
+  }
+
+  /* Headers - Texts */
+  h1.title-tnr {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+  }
+
+  /* -- Navigation - Main Menu --*/
+  .navbar {
+    top: 0;
+    display: flex;
+    position: relative;
+  }
+
+  .logo {
+    display: block;
+    clear: both;
+  }
+
+  .logo img {
+    width: 30px;
+    margin: 0px 5px;
+    padding: 4px 0;
+    float: left;
+  }
+
+  .logo li a{
+    padding: 13px 0px;
+    margin: 2px 5px;
+    text-align: center;
+    font-size: 5px;
+    float: left;
+  }
+
+
+  .logo {
+    margin: 0px 15px;
+  }
+
+  /* navbar */
+  .navbar ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #000;
+  }
+
+  .navbar ul li {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 726px) and (max-width: 1200px) {
+  .mobile-menu li i {
+    display: none;
+    float: right;
+  }
+
+  body {
+    background-size: 100% 100vh;
+    background-position-x: right;
+    background-position-y: top;
+  }
+
+  .container {
+    margin: 0px 5px;
+    padding: 0px 0px;
+  }
+
+  h1.title-tnr {
+    display: block;
+  }
+
+  .menu {
+    display: block;
+    float: right;
+    left: auto;
+    right: auto;
+    padding: 13px 0px;
+    margin: 2px 20px;
+  }
+
+  .menu li a:hover {
+    color: #fcfc00;
+  }
+
+
+  /* -- Navigation - Main Menu --*/
+  nav {
+    top: 0;
+    display: block;
+    position: relative;
+  }
+
+  .logo img {
+    width: 30px;
+    margin: 0px 5px;
+    padding: 4px 0;
+    float: left;
+  }
+
+  .logo li a {
+    padding: 13px 0px;
+    margin: 2px 5px;
+    text-align: center;
+    color: #000;
+    float: left;
+  }
+
+  .logo {
+    margin: 0px 15px;
+  }
+
+  .navbar ul {
+    display: inline-block;
+  }
+
+  .navbar ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #000;
+  }
+
+  .navbar ul li {
+    display: inline-block;
+    margin: 5px 15px;
+  }
+  .navbar ul li ul {
+    display: block;
+
+  }
+}
+
+/* --------------------------- */
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+  .mobile-menu li i{
+    display: none;
+    float: right;
+    margin-right: 20px;
+  }
+
+  /* Container */
+  .container {
+    margin: 0px 10vh;
+    top: 40px;
+    bottom: auto;
+    padding: 5px 0px;
+  }
+
+  .container-covers {
+    display: flex;
+    left: auto;
+    right: auto;
+    margin: 10px 50px;
+  }
+
+  body {
+    background-size: 100% 100vh;
+    background-position-x: right;
+    background-position-y: top;
+  }
+
+
+  .menu {
+    float: right;
+    padding: 13px 0px;
+    margin: 2px 20px;
+  }
+
+  .menu li a:hover {
+    color: #fcfc00;
+  }
+
+
+  /* -- Navigation - Main Menu --*/
+  nav {
+    top: 0;
+    display: block;
+    position: relative;
+  }
+
+  .logo img {
+    width: 30px;
+    margin: 0px 5px;
+    padding: 4px 0;
+    float: left;
+  }
+
+  .logo li a {
+    padding: 13px 0px;
+    margin: 2px 5px;
+    text-align: center;
+    color: #000;
+    float: left;
+  }
+
+
+  .logo {
+    margin: 0px 15px;
+  }
+
+  .navbar ul {
+    display: inline-block;
+  }
+
+  .navbar ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #000;
+  }
+
+  .navbar ul li {
+    display: inline-block;
+    margin: 5px 15px;
+  }
+  .navbar ul li ul {
+    display: none;
+
+  }
+
+}
+
+
+@media screen and (min-width: 1401px) {
+
+  /* Container */
+  .container {
+    margin: 0px 10vh;
+    top: 40px;
+    bottom: auto;
+    padding: 5px 0px;
+  }
+  .mobile-menu li i{
+    display: none;
+    float: right;
+    margin-right: 20px;
+  }
+
+
+  .container-covers {
+    display: block;
+    left: auto;
+    right: auto;
+    margin: 10px 50px;
+  }
+
+  body {
+    background-size: 100% 100vh;
+    background-position-x: right;
+    background-position-y: top;
+  }
+
+
+  .menu {
+    float: right;
+    padding: 13px 0px;
+    margin: 2px 20px;
+  }
+
+  .menu li a:hover {
+    color: #fcfc00;
+  }
+
+
+  /* -- Navigation - Main Menu --*/
+  nav {
+    top: 0;
+    display: block;
+    position: relative;
+  }
+
+  .logo img {
+    width: 30px;
+    margin: 0px 5px;
+    padding: 4px 0;
+    float: left;
+  }
+
+  .logo li a {
+    padding: 13px 0px;
+    margin: 2px 5px;
+    text-align: center;
+    color: #000;
+    float: left;
+  }
+
+
+  .logo {
+    margin: 0px 15px;
+  }
+
+  .navbar ul {
+    display: inline-block;
+  }
+
+  .navbar ul li a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #000;
+  }
+
+  .navbar ul li {
+    display: inline-block;
+    margin: 5px 15px;
+  }
+  .navbar ul li ul {
+    display: none;
+
+  }
+
+}
+
+
+
+
+
+/*---- COVER CONFIGURATION ---- */
+
+.content-field {
+	display: block;
+	float: left;
+	width: 250px;
+	height: 330px;
+	margin: 10px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+.content-field .wrapper {
+	margin-right: 10vh;
+}
+
+.content-field .info {
+	text-align: center;
+}
+
+/* SCENE WRAPPER */
+.wrapper{
+	height: 250px;
+	margin-top:0px;
+	position:relative;
+	perspective: 800;
+	perspective-origin: 50% 100px;
+}
+
+/* CUBE WRAPPER */
+.cube{
+	position: relative;
+	margin: 0 auto;
+	width: 200px;
+	transform-style: preserve-3d;
+}
+.cube:hover{
+	position: relative;
+	margin: 0 auto;
+	width: 200px;
+	transform-style: preserve-3d;
+	animation: spin 4s infinite linear;
+	transition: all 1s linear;
+}
+
+/* INNER CUBE */
+i{
+	position:absolute;
+	top:60px;
+	display:block;
+
+	transition: all 1s linear;
+}
+i.front{
+	transform: translateZ(10px);
+	left:50px;
+	width:100px;
+	height:100px;
+}
+i.back{
+	transform: translateZ(0px) rotateY(180deg);
+	left:50px;
+	width:100px;
+	height:100px;
+}
+i.bottom{
+	transform:rotateX(-90deg) translateY(0px);
+	transform-origin: left bottom;
+	left:50px;
+	width:100px;
+	height:10px;
+}
+i.left{
+	transform:rotateY(270deg) translateX(0px);
+	transform-origin: center left;
+	left:50px;
+	width:10px;
+	height:100px;
+}
+i.right{
+	transform:rotateY(-270deg) translateX(0px);
+	transform-origin: top right;
+	left:190px;
+	width:10px;
+	height:100px;
+}
+i.top{
+	transform:rotateX(-270deg) translateY(0px);
+	transform-origin: left top;
+	left:50px;
+	width:100px;
+	height:10px;
+}
+
+/* SIZE OF COVER CD */
+i.left img, i.right img,
+i.left, i.right {
+	width: 10px;
+	height: 150px;
+}
+i.top img, i.bottom img,
+i.top, i.bottom {
+	width: 150px;
+	height: 10px;
+}
+i.front img, i.back img,
+i.front, i.back {
+	width: 150px;
+	height: 150px;
+}
+i.left img, i.left,
+i.top, i.bottom,
+i.right {
+	background-size: 10px;
+}
+i.front, i.back {
+	background-size: 100px;
+}
+
+/* HOVER TRANSFORMATIONS */
+.cube:hover{
+	top: 0px;
+}
+.cube:hover {
+  animation: coverRotate 3s linear infinite;
+  transform-origin: top center;
+}
+.cube:hover i{
+	top:50px;
+}
+
+/* POSITIONS BODY */
+.left-align {
+	margin-top: 80px;
+}
+.center-align {
+	margin-top: 40px;
+	margin-left: 250px;
+}
+
+/* KEYFRAMES FOR ROTATING ANIMATION */
+@keyframes coverRotate {
+	from { transform: rotateY(0) }
+	to   { transform: rotateY(360deg)  }
+}
+
+@keyframes zoomInfo {
+	0% { transform: scale(1) }
+	50%   { transform: scale(1.2)  }
+	100% { transform: scale(1) }
+}
+
+
+/* --------------------------- */
+
+
+
+/* Mobile Menu */
+@media screen and (max-width: 320px) {
+  .mobile-menu li i {
+    margin-right: 20px;
+  }
+  .navbar ul li a {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 375px) {
+  .mobile-menu li i {
+    margin-right: 40px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .mobile-menu li i {
+    margin-right: 50px;
+  }
+}
+
+@media screen and (min-width: 426px) and (max-width: 1000px) {
+  .mobile-menu li i {
+    margin-right: 50px;
+  }
+}

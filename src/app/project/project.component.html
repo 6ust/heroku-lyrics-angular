@@ -1,0 +1,29 @@
+<br>
+<h1 class="title-tnr center-text">Projetos</h1>
+<br>
+<p class="title-tnr center-text">Conheça outros projetos feito pelo mesmo desenvolvedor</p>
+<br>
+
+<div class="container-covers">
+
+  <div *ngFor="let project of project">
+
+    <!-- VERSÃO ALTERNATIVA DE VISÃO DE CAPA DO ALBUM  -->
+    <div class="content-field">
+      <a href="{{project.url}}" target="_blank">
+
+          <div class="wrapper">
+            <div class="cube">
+              <i class="icons">
+                <img src="./assets/img/project/{{project.image}}" alt="{{project.altImage}}" />
+              </i>
+            </div>
+          </div>
+          <div class="info">
+            <h3 class="title-tnr center-text">{{project.name}}</h3>
+          </div>
+
+      </a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,7 @@
+<br>
+<h1 class="title-tnr center-text">Bandas</h1>
+<br><br>
+<div *ngFor="let band of bands" class="list-band">
+  <a [routerLink]="[ bandNamePath(band.name), 'song']">{{band.name}}</a>
+</div>
+

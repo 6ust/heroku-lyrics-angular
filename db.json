@@ -1,0 +1,1361 @@
+{
+  "project":[
+     {
+        "name":"Recipes and Cocktails",
+        "image":"cocktail.png",
+        "url":"https://recipesandcocktail.wordpress.com/",
+        "altImage":"Drink - baixado do site https://br.freepik.com/vetores-premium/sinal-de-neon-cocktail-colorido_2319069.htm"
+     },
+     {
+        "name":"Lyrics Version 1 - AngularJS",
+        "image":"clave.png",
+        "url":"https://1995.netlify.app/",
+        "altImage":"Clave de Sol - baixado do site https://br.freepik.com/icones-gratis/clave-de-sol_692232.htm"
+     },
+     {
+        "name":"Movies DBZN",
+        "image":"dragon-ball-icon.png",
+        "url":"https://moviedbzn.netlify.app/",
+        "altImage":"Icone Dragon Ball - baixado do site https://pngtree.com/so/dragon-ball"
+     },
+     {
+        "name":"Template Pessoal",
+        "image":"lion.png",
+        "url":"https://temp001.netlify.app/",
+        "altImage":"Leão - baixado do site https://pt.dreamstime.com/imagem-azul-principal-do-vetor-da-cor-le%C3%A3o-image122974526"
+     }
+  ],
+  "bands":[
+     {
+        "name":"Linkin Park"
+     },
+     {
+        "name":"Limp Bizkit"
+     },
+     {
+        "name":"Avenged Sevenfold"
+     },
+     {
+        "name":"P!nk"
+     },
+     {
+        "name":"Poets Of The Fall"
+     },
+     {
+        "name":"Katy Perry"
+     },
+     {
+        "name":"Legiao Urbana"
+     },
+     {
+        "name":"Five Finger Death Punch"
+     },
+     {
+        "name":"Audioslave"
+     },
+     {
+        "name":"Fort Minor"
+     },
+     {
+        "name":"System Of A Down"
+     }
+  ],
+  "songs":[
+     {
+        "bandName":"Five Finger Death Punch",
+        "nameCover":"5fdp-the-wrong-side-of-heaven-and-the-righteous-side-of-hell-volume-1.png",
+        "albumName":"Wrong Side Of Heaven and the Righteous Side of Hell Volume 1",
+        "genre":"metal",
+        "songName":"Wrong Side Of Heaven",
+        "url":"https://www.azlyrics.com/lyrics/fivefingerdeathpunch/wrongsideofheaven.html"
+     },
+     {
+        "bandName":"Five Finger Death Punch",
+        "nameCover":"5fdp-got-your-six.png",
+        "albumName":"Got Your Six",
+        "genre":"metal",
+        "songName":"I Apologize",
+        "url":"https://www.azlyrics.com/lyrics/fivefingerdeathpunch/iapologize.html"
+     },
+     {
+        "bandName":"Audioslave",
+        "nameCover":"audioslave.png",
+        "albumName":"Audioslave",
+        "genre":"metal",
+        "songName":"Like a Stone",
+        "url":"https://www.azlyrics.com/lyrics/audioslave/likeastone.html"
+     },
+     {
+        "bandName":"Fort Minor",
+        "nameCover":"fort-minor-the-rising-tied.png",
+        "albumName":"The Rising Tied",
+        "genre":"metal",
+        "songName":"Believe Me",
+        "url":"https://www.azlyrics.com/lyrics/fortminor/believeme.html"
+     },
+     {
+        "bandName":"Fort Minor",
+        "nameCover":"fort-minor-the-rising-tied.png",
+        "albumName":"The Rising Tied",
+        "genre":"metal",
+        "songName":"Where'd You Go",
+        "url":"https://www.azlyrics.com/lyrics/fortminor/wheredyougo.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-blackbirds-single.png",
+        "albumName":"Single",
+        "genre":"metal",
+        "songName":"Blackbirds",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/blackbirds.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory-ep.png",
+        "albumName":"Hybrid Theory EP",
+        "genre":"metal",
+        "songName":"Carousel",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/carousel.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory-ep.png",
+        "albumName":"Hybrid Theory EP",
+        "genre":"metal",
+        "songName":"High Voltage",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/highvoltage.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Papercut",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/papercut.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"One Step Closer",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/onestepcloser.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"With You",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/withyou.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Points Of Authority",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/pointsofauthority.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Crawling",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/crawling.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Runaway",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/runaway.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"By Myself",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/bymyself.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"In The End",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/intheend.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"A Place For My Head",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/aplaceformyhead.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Forgotten",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/forgotten.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Cure For The Itch",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/curefortheitch.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-hybrid-theory.png",
+        "albumName":"Hybrid Theory",
+        "genre":"metal",
+        "songName":"Pushing Me Away",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/pushingmeaway.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Don't Stay",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/dontstay.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Somewhere I Belong",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/somewhereibelong.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Lying From You",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/lyingfromyou.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Hit The Floor",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/hitthefloor.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Easier To Run",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/easiertorun.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Faint",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/faint.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Figure.09",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/figure09.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Breaking The Habit",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/breakingthehabit.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"From The Inside",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/fromtheinside.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Nobody's Listening",
+        "url":"https://genius.com/Linkin-park-nobodys-listening-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Session",
+        "url":"http://www.metrolyrics.com/session-lyrics-linkin-park.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-meteora.png",
+        "albumName":"Meteora",
+        "genre":"metal",
+        "songName":"Numb",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/numb.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"Leave Out All The Rest",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/leaveoutalltherest.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"Bleed It Out",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/bleeditout.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"Shadow Of The Day",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/shadowoftheday.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"What I've Done",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/whativedone.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"No More Sorrow",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/nomoresorrow.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-minutes-to-midnight.png",
+        "albumName":"Minutes to Midnight",
+        "genre":"metal",
+        "songName":"Valentine's Day",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/valentinesday.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Waiting For The End",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/waitingfortheend.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Blackout",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/blackout.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Wretches And Kings",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/wretchesandkings.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Wisdom, Justice And Love",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/wisdomjusticeandlove.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Iridescent",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/iridescent.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"Fallout",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/fallout.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-a-thousand-suns.png",
+        "albumName":"A Thousand Suns",
+        "genre":"metal",
+        "songName":"The Catalyst",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/thecatalyst.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-living-things.png",
+        "albumName":"Living Things",
+        "genre":"metal",
+        "songName":"Burn It Down",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/burnitdown.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Keys To The Kingdom",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/keystothekingdom.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"All For Nothing",
+        "url":"https://genius.com/Linkin-park-all-for-nothing-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Guilty All The Same",
+        "url":"https://genius.com/Linkin-park-guilty-all-the-same-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"The Summoning",
+        "url":"https://genius.com/Linkin-park-the-summoning-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"War",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/war.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Wastelands",
+        "url":"https://genius.com/Linkin-park-wastelands-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Until It's Gone",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/untilitsgone.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Rebellion",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/rebellion.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Mark The Graves",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/markthegraves.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Drawbar",
+        "url":"https://genius.com/Linkin-park-drawbar-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"Final Masquerade",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/finalmasquerade.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-the-hunting-party.png",
+        "albumName":"The Hunting Party",
+        "genre":"metal",
+        "songName":"A Line In The Sand",
+        "url":"azlyrics.com/lyrics/linkinpark/alineinthesand.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Nobody Can Save Me",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/nobodycansaveme.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Good Goodbye",
+        "url":"https://genius.com/Linkin-park-good-goodbye-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Talking To Myself",
+        "url":"https://genius.com/Linkin-park-talking-to-myself-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Battle Symphony",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/battlesymphony.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Invisible",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/invisible.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Heavy",
+        "url":"https://genius.com/Linkin-park-heavy-lyrics"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Sorry for Now",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/sorryfornow.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Halfway Right",
+        "url":"https://lyricsfa.com/2017/03/13/linkin-park-halfway-right-lyrics/"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"One More Light",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/onemorelight.html"
+     },
+     {
+        "bandName":"Linkin Park",
+        "nameCover":"linkin-park-one-more-light.png",
+        "albumName":"One More Light",
+        "genre":"metal",
+        "songName":"Sharp Edges",
+        "url":"https://www.azlyrics.com/lyrics/linkinpark/sharpedges.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Attack",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/attack.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Dreaming",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/dreaming.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Kill Rock n Roll",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/killrocknroll.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Hypnotize",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/hypnotize.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Stealing Society",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/stealingsociety.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Tentative",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/tentative.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"U-Fig",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/ufig.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Holy Mountains",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/holymountains.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Vicinity of Obscenity",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/vicinityofobscenity.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"She's Like Heroin",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/sheslikeheroin.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Lonely Day",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/lonelyday.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-hypnotize.png",
+        "albumName":"Hypnotize",
+        "genre":"Metal",
+        "songName":"Soldier Side",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/soldierside.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Soldier Side - Intro",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/soldiersideintro.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"B.Y.O.B.",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/byob.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Revenga",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/revenga.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Cigaro",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/cigaro.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Radio/Video",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/radiovideo.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"This Cocaine Makes Me Feel Like I'm on This Song",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/thiscocainemakesmefeellikeimonthissong.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Violent Pornography",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/violentpornography.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Question!",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/question.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Sad Statue",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/sadstatue.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Old School Hollywood",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/oldschoolhollywood.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-mezmerize.png",
+        "albumName":"Mezmerize",
+        "genre":"Metal",
+        "songName":"Lost in Hollywood",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/lostinhollywood.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Chic 'n' Stu",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/chicnstu.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Innervision",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/innervision.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Bubbles",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/bubbles.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Boom!",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/boom.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Nüguns",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/nguns.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"A.D.D",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/addamericandreamdenial.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Mr. Jack",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/mrjack.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"I-E-A-I-A-I-O",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/ieaiaio.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"36",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/36.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Pictures",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/pictures.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Highway Song",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/highwaysong.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Fuck the System",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/fuckthesystem.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Ego Brain",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/egobrain.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Thetawaves",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/thetawaves.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Roulette",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/roulette.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-steal-this-album.png",
+        "albumName":"Steal This Album",
+        "genre":"Metal",
+        "songName":"Streamline",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/streamline.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Prison Song",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/prisonsong.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Needles",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/needles.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Deer Dance",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/deerdance.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Jet Pilot",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/jetpilot.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"X",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/x.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Chop Suey !",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/chopsuey.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Bounce",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/bounce.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Forest",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/forest.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Atwa",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/atwa.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Science",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/science.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Shimmy",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/shimmy.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Toxicity",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/toxicity.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Psycho",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/psycho.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-toxicity.png",
+        "albumName":"Toxicity",
+        "genre":"Metal",
+        "songName":"Aerials",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/aerials.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Suite-Pee",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/suitepee.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Know",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/know.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Sugar",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/sugar.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Suggestions",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/suggestions.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Spiders",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/spiders.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Ddevil",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/ddevil.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Soil",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/soil.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"War?",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/war.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Mind",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/mind.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Peephole",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/peephole.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Cubert",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/cubert.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Darts",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/darts.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"PLUCK",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/pluck.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Marmalade",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/marmalade.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-system-of-a-down.png",
+        "albumName":"System Of A Down",
+        "genre":"Metal",
+        "songName":"Storage",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/stragd.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Blue",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/blue.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Dam",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/dam.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Forever (Outer Space)",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/foreverouterspace.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Friik",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/friik.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Honey",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/honey.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Johnny",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/johnny.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Patterns",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/patterns.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Shame",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/shame.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Snowblind",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/snowblind.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Starlit Eyes",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/starliteyes.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"Temper",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/temper.html"
+     },
+     {
+        "bandName":"System Of A Down",
+        "nameCover":"soad-single.png",
+        "albumName":"Single",
+        "genre":"Metal",
+        "songName":"The Metro",
+        "url":"https://www.azlyrics.com/lyrics/systemofadown/themetro.html"
+     },
+     {
+        "bandName":"Katy Perry",
+        "nameCover":"katy-perry-teenage-dream.png",
+        "albumName":"Teenage Dream",
+        "genre":"Pop",
+        "songName":"E.T.",
+        "url":""
+     },
+     {
+        "bandName":"Katy Perry",
+        "nameCover":"katy-perry-teenage-dream.png",
+        "albumName":"Teenage Dream",
+        "genre":"Pop",
+        "songName":"Last Friday Night (T.G.I.F.)",
+        "url":""
+     },
+     {
+        "bandName":"Katy Perry",
+        "nameCover":"katy-perry-teenage-dream.png",
+        "albumName":"Teenage Dream",
+        "genre":"Pop",
+        "songName":"California Gurls",
+        "url":""
+     },
+     {
+        "bandName":"Katy Perry",
+        "nameCover":"katy-perry-teenage-dream.png",
+        "albumName":"Teenage Dream",
+        "genre":"Pop",
+        "songName":"Fireworks",
+        "url":""
+     },
+     {
+        "bandName":"Legiao Urbana",
+        "nameCover":"legiao-urbana-dois.png",
+        "albumName":"Dois",
+        "genre":"Rock",
+        "songName":"Indios",
+        "url":""
+     },
+     {
+        "bandName":"Legiao Urbana",
+        "nameCover":"legiao-urbana-as-quatro-estacoes.png",
+        "albumName":"Quatro Estações",
+        "genre":"Rock",
+        "songName":"Pais e Filhos",
+        "url":""
+     },
+     {
+        "bandName":"Legiao Urbana",
+        "nameCover":"legiao-urbana-dois.png",
+        "albumName":"Dois",
+        "genre":"Rock",
+        "songName":"Tempo Perdido",
+        "url":""
+     },
+     {
+        "bandName":"Avenged Sevenfold",
+        "nameCover":"avenged-sevenfold-hail-to-the-king.png",
+        "albumName":"Hail To The King",
+        "genre":"Heavy Metal",
+        "songName":"Hail To The King",
+        "url":""
+     },
+     {
+        "bandName":"Avenged Sevenfold",
+        "nameCover":"avenged-sevenfold-waking-the-falling.png",
+        "albumName":"Waking The Falling",
+        "genre":"Heavy Metal",
+        "songName":"Chapter Four",
+        "url":""
+     },
+     {
+        "bandName":"Avenged Sevenfold",
+        "nameCover":"avenged-sevenfold-nightmare.png",
+        "albumName":"Nightmare",
+        "genre":"Heavy Metal",
+        "songName":"Welcome to the Family",
+        "url":""
+     },
+     {
+        "bandName":"Avenged Sevenfold",
+        "nameCover":"avenged-sevenfold-avenged-sevenfold.png",
+        "albumName":"Avenged Sevelfold",
+        "genre":"Heavy Metal",
+        "songName":"Afterlife",
+        "url":""
+     },
+     {
+        "bandName":"Limp Bizkit",
+        "nameCover":"limp-bizkit-results-may-vary.png",
+        "albumName":"Results May Vary",
+        "genre":"NuMetal",
+        "songName":"Behind Blue Eyes",
+        "url":""
+     },
+     {
+        "bandName":"Poets Of The Fall",
+        "nameCover":"poets-of-the-fall-carnival-of-rust.png",
+        "albumName":"Carnival of Rust",
+        "genre":"Rock",
+        "songName":"Carnival of Rust",
+        "url":""
+     },
+     {
+        "bandName":"P!nk",
+        "nameCover":"pink-the-truth-about-love.png",
+        "albumName":"The Truth About Love",
+        "genre":"Rock",
+        "songName":"Try",
+        "url":""
+     }
+  ]
+}
