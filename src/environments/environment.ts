@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api: "https://json-lyrics.herokuapp.com/"
+  api: "https://json-lyrics.herokuapp.com"
 };
 
 /*
