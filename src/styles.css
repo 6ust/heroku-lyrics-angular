@@ -70,7 +70,7 @@ i.icons {
 
 div.wrapper {
   display: flex;
-  margin-left: 60px;
+  margin-left: 90px;
 }
 
 
@@ -291,10 +291,14 @@ body {
   }
 
   .container-covers {
-    display: flex;
+    margin: 5px 0px;
+  }
+
+  .container-covers div {
+    /* display: block; */
     left: auto;
     right: auto;
-    margin: 10px 50px;
+
   }
 
   body {
@@ -374,18 +378,15 @@ body {
     bottom: auto;
     padding: 5px 0px;
   }
+
   .mobile-menu li i{
     display: none;
     float: right;
     margin-right: 20px;
   }
 
-
   .container-covers {
-    display: block;
-    left: auto;
-    right: auto;
-    margin: 10px 50px;
+    margin: 5px 0px;
   }
 
   body {
@@ -455,23 +456,22 @@ body {
 
 }
 
-
-
+.container-covers div.wrapper {
+  display: inline-block;
+  margin-left: 45px;
+  padding-left: 3px;
+}
 
 
 /*---- COVER CONFIGURATION ---- */
 
 .content-field {
-	display: block;
-	float: left;
+  float: left;
 	width: 250px;
 	height: 330px;
 	margin: 10px;
-	padding: 0px;
+	padding: 0px 10px;
 	font-family: sans-serif;
-}
-.content-field .wrapper {
-	margin-right: 10vh;
 }
 
 .content-field .info {
@@ -481,7 +481,6 @@ body {
 /* SCENE WRAPPER */
 .wrapper{
 	height: 250px;
-	margin-top:0px;
 	position:relative;
 	perspective: 800;
 	perspective-origin: 50% 100px;
@@ -490,13 +489,14 @@ body {
 /* CUBE WRAPPER */
 .cube{
 	position: relative;
-	margin: 0 auto;
+	margin: 0;
+  left: auto;
+  right: 45px;
 	width: 200px;
 	transform-style: preserve-3d;
 }
 .cube:hover{
 	position: relative;
-	margin: 0 auto;
 	width: 200px;
 	transform-style: preserve-3d;
 	animation: spin 4s infinite linear;
@@ -508,12 +508,11 @@ i{
 	position:absolute;
 	top:60px;
 	display:block;
-
 	transition: all 1s linear;
 }
 i.front{
 	transform: translateZ(10px);
-	left:50px;
+	left: 50px;
 	width:100px;
 	height:100px;
 }
@@ -582,7 +581,7 @@ i.front, i.back {
 	top: 0px;
 }
 .cube:hover {
-  animation: coverRotate 3s linear infinite;
+  animation: coverRotate 5s linear infinite;
   transform-origin: top center;
 }
 .cube:hover i{
