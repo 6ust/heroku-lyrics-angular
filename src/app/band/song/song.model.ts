@@ -1,7 +1,9 @@
 export interface Song {
 
   bandName: string
-  songName: string
   nameCover: string
   albumName: string
+  genre: string
+  songName: string
+  url: string
 }
